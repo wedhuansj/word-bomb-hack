@@ -1,12 +1,23 @@
 # word-bomb-hack
-how to use:
+## Install Required Libraries:
 
-download the required libraries
+Ensure you have all necessary libraries installed. You can use the following command to install them:
 
-go to hacktool.py and change whatever you like
+```
+pip install pyautogui keyboard
+```
 
-go to worddata folder and choose what language you like and replace the wordlist.txt to the txt you have chosen
+## Edit hacktool.py:
 
-run hacktool.py
+Open the `hacktool.py` file and make any changes you like to the script.
 
-<sub>im not good at english so please forgive me if i make any mistakes</sub>	
+## Choose Language for Word List:
+
+Navigate to the `worddata` folder.
+
+Select your desired language file and rename it to `wordlist.txt`.
+
+Replace the existing `wordlist.txt` in the directory with the chosen file.
+
+## Run the script:
+Execute `hacktool.py` to start the program.
