@@ -7,9 +7,9 @@ Ensure you have all necessary libraries installed. You can use the following com
 pip install pyautogui keyboard
 ```
 
-## Edit hacktool.py:
+## Edit main.py:
 
-Open the `hacktool.py` file and make any changes you like to the script.
+Open the `main.py` file and make any changes you like to the script.
 
 ## Choose Language for Word List:
 
@@ -25,7 +25,7 @@ Arrange the Command Prompt (cmd) and Roblox Player windows side by side.
 
 
 ## Run the script:
-Execute `hacktool.py` to start the program.
+Execute `main.py` to start the program.
 
 When it’s your turn in the game, type the prompt in the Command Prompt window and enjoy.
 
