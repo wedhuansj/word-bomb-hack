@@ -20,10 +20,10 @@ try:
    for letter in matched_word:
     if random.random()<0.1:
      keyboard.write(chr(ord(letter)+1))
-     time.sleep(0.3) # the time that wait then type backspace (you can change this)
+     time.sleep(0.3) # Time to wait before typing backspace (this is adjustable)
      keyboard.press_and_release('backspace')
     keyboard.write(letter)
-    time.sleep(random.uniform(0.07,0.09)) # speed type (you can change this)
+    time.sleep(random.uniform(0.07,0.09)) # Typing speed (this is adjustable)
    keyboard.press_and_release('enter')
    time.sleep(0.3)
    pyautogui.hotkey('alt','tab')
