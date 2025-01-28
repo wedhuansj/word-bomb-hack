@@ -19,6 +19,11 @@ Select your desired language file and rename it to `wordlist.txt`.
 
 Replace the existing `wordlist.txt` in the directory with the chosen file.
 
+## Setup:
+
+Arrange the Command Prompt (cmd) and Roblox Player windows side by side.
+
+
 ## Run the script:
 Execute `hacktool.py` to start the program.
 
