@@ -18,10 +18,6 @@ try:
             a.hotkey('alt','tab')
             c.sleep(0.3)
             for n in m:
-                if b.random()<0.1:
-                    d.write(chr(ord(n)+1))
-                    c.sleep(0.3) # Time to wait before typing backspace (this is adjustable)
-                    d.press_and_release('backspace')
                 d.write(n)
                 c.sleep(b.uniform(0.07,0.09)) # Typing speed (this is adjustable)
             d.press_and_release('enter')
