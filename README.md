@@ -16,7 +16,7 @@ This repository contains a Python script that displays characters and has a box 
     ```
 2. Navigate to the project directory:
     ```bash
-    cd word-bomb-hack
+    cd word-bomb-and-bomb-party-exploit
     ```
 3. Install the required packages:
     ```bash
@@ -41,6 +41,6 @@ This repository contains a Python script that displays characters and has a box 
     ```bash
     python main.py
     ```
-    When it’s your turn in the game, type the prompt in the Command Prompt window and enjoy.
+    When it’s your turn in the game, gracefully enter the prompt into the Command Prompt window and type the word displayed by the program.
     To reset the used word list, simply press Enter with a blank prompt.
     Press Ctrl+C in the Command Prompt to stop the program.
