@@ -19,18 +19,15 @@ This repository contains a Python script that displays characters and includes a
 
 ## Usage
 
-1. **Edit `main.py`:**
-    - Open the `main.py` file and make any desired changes to the script.
-
-2. **Choose Language for Word List:**
+1. **Choose Language for Word List:**
     - Navigate to the `worddata` folder.
     - Select your preferred language file and rename it to `wordlist.txt`.
     - Replace the existing `wordlist.txt` in the directory with the chosen file.
 
-3. **Setup:**
+2. **Setup:**
     - Arrange the Command Prompt (cmd) and Roblox Player windows side by side on your screen.
 
-4. **Run the script:**
+3. **Run the script:**
     - Execute `main.py` to start the program:
     ```bash
     python main.py
