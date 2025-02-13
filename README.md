@@ -1,6 +1,6 @@
 # Word Bomb Hack - Character Display and Prompt Input Script
 
-This repository contains a Python script that displays characters and includes a prompt input box. The script uses the `tkinter` library for the GUI and `pyautogui` for simulating key presses. It also provides instructions for using the script to exploit the game "Word Bomb" in Roblox.
+This repository contains a Python script that displays characters and includes a prompt input box. The script uses the `tkinter` library for the GUI and `pyautogui` for simulating key presses. It also provides instructions for using the script to exploit the game "Word Bomb" in Roblox and the "Bomb Party" game in jklm.fun.
 
 ## Installation
 
